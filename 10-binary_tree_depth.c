@@ -1,5 +1,4 @@
 #include "binary_trees.h"
-#include <stdlib.c>
 
 /**
  * binary_tree_depth - is used to find the debth of the binary tree
